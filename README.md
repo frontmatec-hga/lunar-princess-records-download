@@ -44,6 +44,7 @@ To undo it, click **Remove the recorder** on the same page.
 - **It only watches.** The recorder reads the game and writes down what happens. It changes nothing in the game or in your save.
 - **Your recordings stay on your PC,** in `%LOCALAPPDATA%\ErCoopRecords\`. Nothing is uploaded anywhere. The Setup page can make a backup and restore from one.
 - **It looks for a newer version when it starts.** The app reads this download page once at start and shows a notice if a newer version is out. It sends nothing about you or your recordings, and it never updates itself: you download the new exe here, start it, and replace the installed recorder on the Setup page.
+- **If something does not work,** click **Collect logs** on the Setup page. It puts the logs of the recorder and the app, the settings and your newest recording into one zip file on your desktop, for you to hand to whoever is helping. Nothing is sent anywhere. The zip holds Steam IDs and character names, so share it only with someone you trust.
 
 ## About
 
