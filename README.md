@@ -42,7 +42,8 @@ To undo it, click **Remove the recorder** on the same page.
 
 - **Early version.** The recorder is new and may get things wrong or fail to load. If the game will not start, remove the recorder on the Setup page.
 - **It only watches.** The recorder reads the game and writes down what happens. It changes nothing in the game or in your save.
-- **Your recordings stay on your PC,** in `%LOCALAPPDATA%\ErCoopRecords\`. Nothing is uploaded anywhere. The Setup page can make a backup.
+- **Your recordings stay on your PC,** in `%LOCALAPPDATA%\ErCoopRecords\`. Nothing is uploaded anywhere. The Setup page can make a backup and restore from one.
+- **It looks for a newer version when it starts.** The app reads this download page once at start and shows a notice if a newer version is out. It sends nothing about you or your recordings, and it never updates itself: you download the new exe here, start it, and replace the installed recorder on the Setup page.
 
 ## About
 
