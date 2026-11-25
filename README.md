@@ -31,7 +31,7 @@ It is one file. Nothing else needs installing. Windows may warn that it comes fr
 
 ## Install
 
-1. Start `LunarPrincessRecords.exe` and open **Setup** (the cog, bottom left).
+1. Start `LunarPrincessRecords.exe` and open **Settings** (the cog, bottom left).
 2. Click **Choose folder** and pick your Mod Engine 2 folder, the one with `launchmod_eldenring.bat` in it.
 3. Check the line it shows, then click **Install the recorder**. The config file is backed up first.
 4. Start the game with `launchmod_eldenring.bat`. Load a character and it appears in the app.
@@ -40,11 +40,11 @@ To undo it, click **Remove the recorder** on the same page.
 
 ## Good to know
 
-- **Early version.** The recorder is new and may get things wrong or fail to load. If the game will not start, remove the recorder on the Setup page.
+- **Early version.** The recorder is new and may get things wrong or fail to load. If the game will not start, remove the recorder on the Settings page.
 - **It only watches.** The recorder reads the game and writes down what happens. It changes nothing in the game or in your save.
-- **Your recordings stay on your PC,** in `%LOCALAPPDATA%\ErCoopRecords\`. Nothing is uploaded anywhere. The Setup page can make a backup and restore from one.
-- **It looks for a newer version when it starts.** The app reads this download page once at start and shows a notice if a newer version is out. It sends nothing about you or your recordings, and it never updates itself: you download the new exe here, start it, and replace the installed recorder on the Setup page.
-- **If something does not work,** click **Collect logs** on the Setup page. It puts the logs of the recorder and the app, the settings and your newest recording into one zip file on your desktop, for you to hand to whoever is helping. Nothing is sent anywhere. The zip holds Steam IDs and character names, so share it only with someone you trust.
+- **Your recordings stay on your PC,** in `%LOCALAPPDATA%\ErCoopRecords\`. Nothing is uploaded anywhere. The Settings page can make a backup and restore from one.
+- **It looks for a newer version when it starts.** The app reads this download page once at start and shows a notice if a newer version is out. It sends nothing about you or your recordings, and it never updates itself: you download the new exe here, start it, and replace the installed recorder on the Settings page.
+- **If something does not work,** click **Collect logs** on the Settings page. It puts the logs of the recorder and the app, the settings and your newest recording into one zip file on your desktop, for you to hand to whoever is helping. Nothing is sent anywhere. The zip holds Steam IDs and character names, so share it only with someone you trust.
 
 ## About
 
